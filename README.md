@@ -70,3 +70,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This bot was developed using the [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) library.
 - Media downloading is facilitated by the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library.
+
+
+## Sample Ouput
+
+![image](https://github.com/ishuu19/telegram-video-audio-downloader-bot/assets/120282157/cdd8a345-d3e4-499b-887b-917f7c25461e)
